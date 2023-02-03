@@ -1,0 +1,4 @@
+﻿TransactionDate,TransactionType,SecurityType,Symbol,Quantity,Amount,Price,Commission,Description
+7/27/18,Sold To Close,OPTN,AMD Jan 17 '20 $10 Call,-1,1022.26,10.3,7.7,AMD Jan 17 '20 $10 Call
+6/6/18,Sold To Close,OPTN,AMD Jan 17 '20 $10 Call,-1,662.27,6.7,7.7,AMD Jan 17 '20 $10 Call
+4/30/18,Bought To Open,OPTN,AMD Jan 17 '20 $10 Call,2,-668.48,3.3,8.45,AMD Jan 17 '20 $10 Call
